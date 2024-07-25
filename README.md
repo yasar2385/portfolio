@@ -1,6 +1,6 @@
 # Yasar Arabath's Developer Portfolio
 
-## 🚀 [View Live Portfolio](https://github.com/yasar2385/portfolio)
+## 🚀 [View Live Portfolio](https://yasar2385.github.io/portfolio/)
 
 Welcome to my developer portfolio! This project showcases my skills, projects, and professional experience as a web developer.
 
